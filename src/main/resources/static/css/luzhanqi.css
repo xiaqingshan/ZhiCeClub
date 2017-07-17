@@ -3,6 +3,21 @@
     --base-block-width: 240px;
 }
 
+#zhuangtaiban{
+    margin:10px auto;
+    padding:1px;
+    border:1px solid lightcyan;
+    width:var( --base-block-width );
+    font-size:calc(var( --base-block-width )*16/240);
+}
+#kongzhiban{
+    margin:2px auto;
+    padding:1px;
+    border:1px solid lightcyan;
+    width:var( --base-block-width );
+    font-size:calc(var( --base-block-width )*16/240);
+}
+
 #junqi {
     margin:10px auto;
     padding:1px;
